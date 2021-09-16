@@ -1,4 +1,3 @@
-﻿# Markdown
+﻿# tên nhóm
 ## Wed Bán Linh Kiện Máy Tính
-
-- Báo Cáo Môn
+### thành viên
